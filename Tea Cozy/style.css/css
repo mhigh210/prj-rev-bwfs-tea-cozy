@@ -1,0 +1,145 @@
+body{
+  font-family: Helvetica;
+  font-size: 22px;
+  color: seashell;
+  background-color: black;
+  opacity: 0.9;
+  text-align: center;
+}
+
+header{
+
+
+  background-color: black;
+  display: flex;
+  text-align: center;
+  position: fixed;
+  width: 100%;
+  height: 70px;
+  margin-top: 0px;
+  border-bottom: 2px solid white;
+}
+
+h1 img{
+  position: relative;
+  bottom: 20px;
+  margin-top: 0px;
+  height: 50px;
+}
+
+nav span {
+  color: seashell;
+  margin-top: 0px;
+  padding: 0px 10px;
+  font-size: 30px;
+  position: relative;
+  top: 15px;
+  left: 640px;
+  display: inline-block;
+  text-decoration: underline;
+}
+
+
+.Mission{
+  text-decoration: none;
+  margin: 0px 30px;
+  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-mission-background.jpg);
+  width: 1200px;
+  height: 700px;
+}
+
+.Our{
+position: relative;
+top: 340px;
+height: 125px;
+width: 1200px;;
+background-color: black;
+}
+
+.Options{
+  display: inline-flex;
+  flex-wrap: wrap;
+  width: 1000px;
+  justify-content: space-around;
+}
+
+.blitz img{
+  height: 200px;
+  width: 300px;
+
+}
+
+.Spiced img{
+  height: 200px;
+  width: 300px;
+}
+.Seasonal img{
+  height: 200px;
+  width: 300px;
+}
+
+.Myrtle img{
+  height: 200px;
+  width: 300px;
+}
+
+.Bizarre img{
+  height: 200px;
+  width: 300px;
+}
+
+.Locations{
+  margin: 0px 30px;
+  text-align: center;
+  width: 1200px;
+  height: 500px;
+  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-locations-background.jpg);
+}
+
+.Locations a{
+  padding-bottom: 15px;
+}
+
+.Places{
+  margin-top: 150px;
+  display: flex;
+  justify-content: space-around;
+  opacity: 1;
+}
+
+.Dt{
+
+  background-color: black;
+  height: 200px;
+  width: 300px;
+  text-align: center;
+
+}
+
+.Eb{
+
+  background-color: black;
+  height: 200px;
+  width: 300px;
+  text-align: center;
+
+}
+
+.Oak{
+
+  background-color: black;
+  height: 200px;
+  width: 300px;
+  text-align: center;
+
+}
+
+footer{
+  margin-top: 125px;
+  height: 200px;
+}
+
+.copy{
+  font-size: 16px;
+  text-align: left;
+}
